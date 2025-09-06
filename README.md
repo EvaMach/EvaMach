@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I’m a frontend developer on a quest to create user-centered, intuitive interfaces that aren’t just pretty on the outside but follow clean code principles and best practices. Constantly leveling up and exploring the wonderful world of programming. 🚀 Not much to see here, as I do most of my coding for [@newtontechnologies](https://github.com/newtontechnologies).🔒
+I’m a frontend developer who loves creating user-oriented, intuitive interfaces that aren’t just pretty on the outside but follow clean code principles and best practices. Constantly leveling up and exploring the wonderful world of programming. 🚀 Not much to see here, as I do most of my work for private companies - currently for [TolionHealth](https://tolion.com/). 🧠
 
-To checkout some of my work there and read about what I do, visit [my website](https://eva-machova.cz/). 😊 
+To checkout some of my work, visit [my website](https://eva-machova.cz/). 😊 
 <!--
 **EvaMach/EvaMach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
