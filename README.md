@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a frontend developer who loves creating user-oriented, intuitive interfaces that aren’t just pretty on the outside but follow clean code principles and best practices. Constantly leveling up and exploring the wonderful world of programming. 🚀 Not much to see here, as I do most of my work for private companies - currently for [TolionHealth](https://tolion.com/). 🧠
+I’m a software developer who loves creating user-focused apps that aren’t just pretty on the outside but follow clean code principles and best practices. My main stack is React and TypeScript, lately I’ve been exploring native and backend development with React Native and Python. Not much to see here, as I do most of my work for companies - currently for [TolionHealth](https://tolion.com/). 🧠
 
 To checkout some of my work, visit [my website](https://eva-machova.cz/). 😊 
 <!--
