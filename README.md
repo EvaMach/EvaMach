@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a software developer who loves creating user-focused apps that aren’t just pretty on the outside but follow clean code principles and best practices. My main stack is React and TypeScript, lately I’ve been exploring native and backend development with React Native and Python. Not much to see here, as I do most of my work for companies - currently for [TolionHealth](https://tolion.com/). 🧠
+I’m a software developer who loves creating user-focused apps that aren’t just pretty on the outside but follow clean code principles and best practices. My main stack is React and TypeScript, lately I’ve been diving into native AI-driven apps using Python and React Native. Not much to see here, as I do most of my work for companies - currently for [TolionHealth](https://tolion.com/). 🧠
 
 To checkout some of my work, visit [my website](https://eva-machova.cz/). 😊 
 <!--
